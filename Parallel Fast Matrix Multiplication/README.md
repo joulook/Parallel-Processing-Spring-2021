@@ -8,9 +8,9 @@ My first project was in the "Parallel Processing" course when I was in the 2nd s
 | *fast matrix multiplication* |
 
 ## EREW PRAM
-| <img src="02.png" alt="Pair Game" width="400"/> | 
+| <img src="02.png" alt="Pair Game" width="500"/> | 
 |:--:| 
 
 ## GPU Configuration
-| <img src="03.png" alt="Pair Game" width="400"/> | 
+| <img src="03.png" alt="Pair Game" width="600"/> | 
 |:--:| 
